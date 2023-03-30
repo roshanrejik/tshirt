@@ -1,0 +1,58 @@
+export const fontTemplate = {
+  large: {
+    titleSize: "54px",
+    imageWidth: "100px",
+    imageHeight: "100px",
+    subTitle: "38px",
+  },
+  medium: {
+    titleSize: "34px",
+    imageWidth: "20px",
+    imageHeight: "40px",
+    subTitle: "18px",
+  },
+  small: {
+    titleSize: "24px",
+    imageWidth: "10px",
+    imageHeight: "20px",
+    subTitle: "14px",
+  },
+};
+export const bgStyle = {
+  large: {
+    width: "300px",
+    height: "350px",
+    fontFamily: "'Luckiest Guy', cursive",
+    fontSize: "40px",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    color: "#FF9800",
+    justifyContent: "center",
+    padding: "5px",
+  },
+  medium: {
+    width: "200px",
+    height: "250px",
+    fontFamily: "'Luckiest Guy', cursive",
+    fontSize: "40px",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    color: "#FF9800",
+    justifyContent: "center",
+    padding: "5px",
+  },
+  small: {
+    width: "200px",
+    height: "200px",
+    fontFamily: "'Luckiest Guy', cursive",
+    fontSize: "40px",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    color: "#FF9800",
+    justifyContent: "center",
+    padding: "5px",
+  },
+};
